@@ -8,7 +8,7 @@ Use natural language processing (NLP) techniques for text classification on a mo
 dataset.
 
 Technologies-
-Python, NLTK or SpaCy, Scikit-learn.
+Python, NLTK, Scikit-learn, Matplotlib
 
 What You Learn-
 Text classification with NLP.
